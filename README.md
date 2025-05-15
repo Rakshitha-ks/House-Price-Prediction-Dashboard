@@ -3,7 +3,7 @@
 This project is a **Streamlit web application** that showcases a **House Price Prediction** model built using **Multiple Linear Regression**. The dashboard allows users to view dataset visualizations, understand model performance, and see predicted house prices based on input features.
 
 ---
-🔗 [Click here to access the live dashboard](https://house-price-pridiction.streamlit.app/)
+🔗 [Click here to access the live dashboard]((https://house-price-prediction-dashboard-mrnyeqnsa8x3tkedavk2hn.streamlit.app/))
 ---
 
 ## 🚀 Features
